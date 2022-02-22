@@ -1,6 +1,7 @@
 # TAMAGOTCHI04
 Virtual pet that feeds off of stolen WPA/WPA2 handshakes
-NOTE: This requires at least a linux-based operating system
+NOTE: This requires a linux-based operating system and a wireless interface capable of entering monitor mode.
+Once the program is installed, please set your managed and monitor faces to their correct names in "tamagotchi.py" by changing the `interface` and `moninterface` variables.
 
 # Installation (Debian)
 ## Prerequisites
