@@ -18,7 +18,7 @@ from ui import __uirun__        # Load UI file
 
 workingDir = os.getcwd()        # Get Current working directory
 interface = "wlp2s0"
-moninterface = interface + "mon"
+moninterface = "wlp2s0mon"
 LOGGING = True                  # disable to remove logging
 R = '\033[91m'                  # Red Text
 B = '\033[94m'                  # Blue Text
